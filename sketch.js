@@ -73,7 +73,7 @@ fill("red")
   stoneObj.display();
   groundObject.display();
   // display launcher object here
-    
+ launcherObject.display() ;  
 
 
   detectollision(stoneObj,mango1);
